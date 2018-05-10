@@ -1,0 +1,43 @@
+body
+{
+	background-color:moccasin;
+}
+#heading
+{
+	text-align:center;
+	color:Blue;
+	background-color:silver;
+	padding:5px 5px;
+	color:Sienna;
+}
+li1
+{
+	display:inline-block;
+	padding: 14px 16px;
+}
+ul
+{
+	list-style-type:none;
+	background-color:Thistle;
+}
+li
+{
+	display:inline-block;	
+}
+li a:hover
+{
+	background-color:violet;
+}
+li a
+{
+	font-size:25px;	
+	display: block;   
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+	color:black;
+}
+
+	
+	
+	
