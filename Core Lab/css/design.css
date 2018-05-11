@@ -8,12 +8,18 @@ body
 	color:Blue;
 	background-color:silver;
 	padding:5px 5px;
+<<<<<<< HEAD:Core Lab/design.css
 	
 }
 h1#heading{
 	color:Sienna;
 }	
 li1
+=======
+	color:grey;
+
+}li1
+>>>>>>> 63b3a8fd78194dd7b3ff057241a3fa01f9aac652:Core Lab/css/design.css
 {
 	display:inline-block;
 	padding: 14px 16px;
@@ -21,7 +27,6 @@ li1
 ul
 {
 	list-style-type:none;
-	background-color:Thistle;
 }
 li
 {
@@ -33,13 +38,14 @@ li a:hover
 }
 li a
 {
-	font-size:25px;	
+	font-size:18px;	
 	display: block;   
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 	color:black;
 }
+
 
 	
 	
