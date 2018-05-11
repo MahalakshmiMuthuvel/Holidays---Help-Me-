@@ -8,18 +8,16 @@ body
 	color:Blue;
 	background-color:silver;
 	padding:5px 5px;
-<<<<<<< HEAD:Core Lab/design.css
 	
 }
-h1#heading{
-	color:Sienna;
+#heading{
+	color:sienna;
 }	
-li1
-=======
+li1{
 	color:grey;
+}
 
-}li1
->>>>>>> 63b3a8fd78194dd7b3ff057241a3fa01f9aac652:Core Lab/css/design.css
+li1
 {
 	display:inline-block;
 	padding: 14px 16px;
