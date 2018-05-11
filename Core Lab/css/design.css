@@ -5,9 +5,9 @@ body
 #heading
 {
 	text-align:center;
-	color:Blue;
-	background-color:silver;
+	background-color:white;
 	padding:5px 5px;
+	font-size:16px;
 	
 }
 #heading{
