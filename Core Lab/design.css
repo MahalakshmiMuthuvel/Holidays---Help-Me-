@@ -8,8 +8,11 @@ body
 	color:Blue;
 	background-color:silver;
 	padding:5px 5px;
-	color:Sienna;
+	
 }
+h1#heading{
+	color:Sienna;
+}	
 li1
 {
 	display:inline-block;
