@@ -9,8 +9,8 @@ body
 	background-color:silver;
 	padding:5px 5px;
 	color:Sienna;
-}
-li1
+
+}li1
 {
 	display:inline-block;
 	padding: 14px 16px;
@@ -18,7 +18,6 @@ li1
 ul
 {
 	list-style-type:none;
-	background-color:Thistle;
 }
 li
 {
@@ -30,13 +29,14 @@ li a:hover
 }
 li a
 {
-	font-size:25px;	
+	font-size:18px;	
 	display: block;   
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 	color:black;
 }
+
 
 	
 	
