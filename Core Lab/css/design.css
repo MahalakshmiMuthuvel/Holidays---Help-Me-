@@ -4,15 +4,27 @@ body
 }
 #heading
 {
-	text-align:center;
-	color:Blue;
-	background-color:silver;
+	text-align:right;
+	background-color:white;
 	padding:5px 5px;
+	margin-right:50px;
+	margin-left:15px;
+	margin-top:0px;
+	margin-bottom:-15px;
+}	
+#heading h1
+{	
+	font-family:Arial Black;
+	color:DarkSlateGrey;
+	
 	
 }
-#heading{
-	color:sienna;
-}	
+#heading h2
+{
+	font-family:Georgia;
+	
+	
+}
 li1{
 	color:grey;
 }
@@ -32,16 +44,42 @@ li
 }
 li a:hover
 {
-	background-color:violet;
+	text-decoration:underline;
 }
 li a
 {
 	font-size:18px;	
 	display: block;   
     text-align: center;
+	text-decoration:none;
     padding: 14px 16px;
-    text-decoration: none;
 	color:black;
+}
+.column
+{
+	 float: left;
+    width: 33.33%;
+    padding: 15px;
+}
+.column h2
+{
+	color : Black;
+	margin-left:10px;
+	font-size:20px;
+	font-family:Courier New;
+}
+.column p
+{
+	color : Gray;
+	font-size:15px;
+	padding:5px 5px;
+	font-family:Courier;
+}
+	
+.row:{
+    content: "";
+    display: table;
+    clear: both;
 }
 
 
