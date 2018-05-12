@@ -1,6 +1,14 @@
+navbar{
+	background-color: #212121;
+}
 body
 {
 	background-color:moccasin;
+}
+footer
+{
+	background-color:grey;
+	font-color:white;
 }
 #heading
 {
@@ -59,6 +67,10 @@ li a
 	text-decoration:none;
     padding: 14px 16px;
 	color:black;
+}
+.button
+{
+	background-color: white;
 }
 .column
 {
