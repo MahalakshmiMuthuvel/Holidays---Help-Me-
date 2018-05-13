@@ -1,14 +1,9 @@
 navbar{
 	background-color: #212121;
 }
-body
-{
-	background-color:moccasin;
-}
 footer
 {
 	background-color:grey;
-	font-color:white;
 }
 #heading
 {
@@ -78,12 +73,16 @@ li a
     width: 33.33%;
     padding: 15px;
 }
-.column h2
+.panel-header
 {
 	color : Black;
 	margin-left:10px;
 	font-size:20px;
+<<<<<<< HEAD
 	font-family:CourierNew;
+=======
+	font-family:Impact;
+>>>>>>> 2400167dfb96c5876d483e68c698bd760946ad03
 }
 .column p
 {
