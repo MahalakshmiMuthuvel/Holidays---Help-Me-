@@ -19,10 +19,7 @@ footer
 {	
 	font-family:Arial Black;
 	color:DarkSlateGrey;
-	margin-bottom:-15px;
-
-	
-	
+	margin-bottom:-15px;	
 }
 #heading h2
 {
@@ -94,6 +91,15 @@ li a
     display: table;
     clear: both;
 }
+/*#Arrow
+{
+	border:solidBlack;
+	border-width:0 3px 3px 0;
+	display:inline-block;
+	padding:3px;
+}*/
+	
+	
 
 
 	
