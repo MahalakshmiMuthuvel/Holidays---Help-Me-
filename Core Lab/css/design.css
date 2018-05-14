@@ -98,7 +98,6 @@ li a
 	display:inline-block;
 	padding:3px;
 }*/
-<<<<<<< HEAD
 .back-to-top
 {
 	cursor:pointer;
@@ -108,17 +107,8 @@ li a
 	display:none;
 	color:white;
 }
-	
-=======
-	.back-to-top {
-    cursor: pointer;
-    position: fixed;
-    bottom: 20px;
-    right: 20px;
-    display:none;
-}
 
->>>>>>> ad689587a43bb33f0dc7d73a833d54b8d7d40e6f
+
 	
 
 
