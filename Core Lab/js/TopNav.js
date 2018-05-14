@@ -18,11 +18,18 @@ function topFunction()
 	document.body.scrollTop=0;
 	document.documentElement.scrollTop=0;
 }*/
+<<<<<<< HEAD
 $(document).ready(function()
 {
  $(window).scroll(function()
 {
  if ($(this).scrollTop() > 2) {
+=======
+// ===== Scroll to Top ==== 
+$(document).ready(function(){
+     $(window).scroll(function () {
+            if ($(this).scrollTop() > 50) {
+>>>>>>> ad689587a43bb33f0dc7d73a833d54b8d7d40e6f
                 $('#back-to-top').fadeIn();
             } else {
                 $('#back-to-top').fadeOut();
@@ -39,5 +46,9 @@ $(document).ready(function()
         
         $('#back-to-top').tooltip('show');
 
+<<<<<<< HEAD
 });
 	
+=======
+});
+>>>>>>> ad689587a43bb33f0dc7d73a833d54b8d7d40e6f
