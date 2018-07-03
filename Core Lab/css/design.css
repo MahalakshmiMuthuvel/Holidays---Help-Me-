@@ -107,8 +107,10 @@ li a
 	display:none;
 	color:white;
 }
-
-
+.Mentors li
+{
+	list-style-type:Square;
+}
 	
 
 
