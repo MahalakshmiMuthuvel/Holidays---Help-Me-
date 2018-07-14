@@ -5,6 +5,9 @@ footer
 {
 	background-color:grey;
 }
+
+
+	
 #heading
 {
 	text-align:right;
@@ -107,8 +110,9 @@ li a
 	display:none;
 	color:white;
 }
-.Mentors li
+.Mentors li,ul
 {
+	display:block;
 	list-style-type:Square;
 }
 	
