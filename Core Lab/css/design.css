@@ -1,5 +1,6 @@
 navbar{
 	background-color: #212121;
+	margin-left:-100px;
 }
 footer
 {
@@ -20,7 +21,8 @@ footer
 {	
 	font-family:Arial Black;
 	color:DarkSlateGrey;
-	margin-bottom:-15px;	
+	margin-bottom:-15px;
+	font-size:25px;
 }
 #heading h2
 {
@@ -113,9 +115,5 @@ li a
 	display:block;
 	list-style-type:Square;
 }
-	
-
-
-	
 	
 	
